@@ -10,7 +10,7 @@
 
 ## Description
 
-This is a project I worked on for Udacity Front-End Web Developer Nanodegree course. Based on a designed mockup, I created this fully responsive portfolio page in HTML and CSS. 
+This is a project I worked on for Udacity Front-End Web Developer Nanodegree course. Based on a designed mockup, I created this fully responsive portfolio page in HTML and CSS. Take a look at my portfolio [here](https://denni5lin.github.io/build-a-portfolio/).
 
 ## Content
 
